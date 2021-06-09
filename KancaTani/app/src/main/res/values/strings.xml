@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kanca Tani</string>
+    <string name="actual_value">Actual Value</string>
+    <string name="predicted_value">Predicted Value</string>
 </resources>
